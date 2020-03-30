@@ -1,0 +1,11 @@
+{
+  "name": "my-api-restful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WelliRigo/my-api-restful.git",
+  "author": "Welliton Rigo <welliton.rigo@grad.ufsc.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
